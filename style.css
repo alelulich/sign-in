@@ -1,0 +1,29 @@
+body{
+    display: inline;
+    font-family: 'Roboto', sans-serif;
+    margin: 30px;
+}
+.contenedor-principal{
+    box-shadow: 0px 0px 8px 0px rgba(0, 0, 0, 0.30);
+    padding: 20px;
+    margin: auto;
+    margin-top: 100px;
+    width: 30%;
+    border-radius: 25px;
+}
+
+.boton{
+    display: inline;
+    background-color: darkslategrey;
+    padding: 5px 30px;
+    border-radius: 20px;
+    color: beige;
+    margin: 40px 0px
+}
+main{
+    margin: 30px;
+}
+.link{
+    color: blue;
+    text-decoration: none;
+}
